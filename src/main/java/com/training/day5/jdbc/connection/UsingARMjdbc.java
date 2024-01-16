@@ -1,4 +1,4 @@
-package com.training.day5.jdbc;
+package com.training.day5.jdbc.connection;
 
 import java.sql.*;
 
